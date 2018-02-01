@@ -1,0 +1,52 @@
+Files Functionality:
+
+bustersAgents.py 
+	Agents for playing the Ghostbusters variant of Pacman.
+
+inference.py 
+	Code for tracking ghosts over time using their sounds.
+
+analysis.py 
+	A file to put the answers to questions given in the project.
+
+busters.py 
+	The main entry to Ghostbusters (replacing Pacman.py)
+
+bustersGhostAgents.py 
+	New ghost agents for Ghostbusters
+
+distanceCalculator.py 
+	Computes maze distances
+
+game.py 
+	Inner workings and helper classes for Pacman
+
+ghostAgents.py 
+	Agents to control ghosts
+
+graphicsDisplay.py 
+	Graphics for Pacman
+
+graphicsUtils.py 
+	Support for Pacman graphics
+
+keyboardAgents.py 
+	Keyboard interfaces to control Pacman
+
+layout.py 
+	Code for reading layout files and storing their contents
+
+util.py 
+	Utility functions
+
+autograder.py 
+	Project autograder
+
+testParser.py 
+	Parses autograder test and solution files
+
+testClasses.py 
+	General autograding test classes
+
+test_cases/ 
+	Directory containing the test cases for each question
