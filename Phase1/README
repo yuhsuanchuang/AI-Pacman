@@ -1,0 +1,51 @@
+
+All files functionality:
+
+search.py
+	Implementation of Depth First Search, Breadth First Search, Uniform Cost Search, and A* search.
+
+searchAgents.py
+	Where all of the search-based agents will reside.
+
+pacman.py
+	The main file that runs Pacman games. This file describes a Pacman GameState type, which you use in this project.
+
+game.py
+	The logic behind how the Pacman world works. This file describes several supporting types like AgentState, Agent, Direction, and Grid.
+
+util.py
+	Useful data structures for implementing search algorithms.
+
+graphicsDisplay.py
+	Graphics for Pacman
+
+graphicsUtils.py
+	Support for Pacman graphics
+
+textDisplay.py
+	ASCII graphics for Pacman
+
+ghostAgents.py
+	Agents to control ghosts
+
+keyboardAgents.py
+	Keyboard interfaces to control Pacman
+
+layout.py
+	Code for reading layout files and storing their contents
+
+autograder.py
+	Project autograder
+
+testParser.py
+	Parses autograder test and solution files
+
+testClasses.py
+	General autograding test classes
+
+test_cases/
+	Directory containing the test cases for each question
+
+searchTestClasses.py
+	Project 1 specific autograding test classes
+
